@@ -1,0 +1,837 @@
+[{
+  "id": "2000-real-madrid",
+  "year": 2000,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Valencia",
+  "score": "3-0",
+  "stadium": "Stade de France",
+  "city": "Paris",
+  "manager": "Vicente del Bosque",
+  "captain": "Fernando Hierro",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2000-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2000-real-madrid-trophy.jpg"
+  },
+  "story": "Real Madrid claimed their eighth European Cup in Saint-Denis, overwhelming a spirited Valencia side with goals from Morientes, McManaman, and Raúl. Steve McManaman's stunning volley remains one of the finest goals in final history. It was the beginning of a new Galácticos era.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Iker Casillas"],
+    "defenders": ["Michel Salgado", "Fernando Hierro", "Roberto Carlos", "Iván Helguera"],
+    "midfielders": ["Savio", "Steve McManaman", "Claude Makélélé", "Geremi"],
+    "forwards": ["Fernando Morientes", "Raúl"]
+  },
+  "road_to_glory": {
+    "r16": "bye",
+    "quarterfinal": "Manchester United",
+    "semifinal": "Bayern Munich",
+    "final": "Valencia"
+  }
+},
+{
+  "id": "2001-bayern-munich",
+  "year": 2001,
+  "winner": "Bayern Munich",
+  "winner_country": "Germany",
+  "runner_up": "Valencia",
+  "score": "1-1 (5-4 on penalties)",
+  "stadium": "San Siro",
+  "city": "Milan",
+  "manager": "Ottmar Hitzfeld",
+  "captain": "Oliver Kahn",
+  "logo": "/assets/logos/bayern-munich.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2001-bayern-munich-celebration.jpg",
+    "trophy_lift": "/assets/photos/2001-bayern-munich-trophy.jpg"
+  },
+  "story": "One of the most dramatic finals in UCL history. Bayern and Valencia were level after 120 minutes, sending the tie to penalties at the San Siro. Oliver Kahn was colossal in goal, saving three spot kicks to hand Bayern their fourth European crown. It was heartbreak for Valencia, who had also lost the previous year's final.",
+  "starting_xi": {
+    "formation": "3-4-3",
+    "goalkeeper": ["Oliver Kahn"],
+    "defenders": ["Samuel Kuffour", "Thomas Linke", "Patrik Andersson"],
+    "midfielders": ["Bixente Lizarazu", "Stefan Effenberg", "Michael Tarnat", "Jens Jeremies"],
+    "forwards": ["Mehmet Scholl", "Carsten Jancker", "Paulo Sergio"]
+  },
+  "road_to_glory": {
+    "r16": "bye",
+    "quarterfinal": "Manchester United",
+    "semifinal": "Real Madrid",
+    "final": "Valencia"
+  }
+},
+{
+  "id": "2002-real-madrid",
+  "year": 2002,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Bayer Leverkusen",
+  "score": "2-1",
+  "stadium": "Hampden Park",
+  "city": "Glasgow",
+  "manager": "Vicente del Bosque",
+  "captain": "Fernando Hierro",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2002-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2002-real-madrid-trophy.jpg"
+  },
+  "story": "Zinedine Zidane produced perhaps the single greatest moment in Champions League final history — a breathtaking left-footed volley from Roberto Carlos's cross that gave Real Madrid a 2-1 win over Bayer Leverkusen in Glasgow. It was Los Blancos' ninth European Cup and Zidane's crowning moment in a Madrid shirt.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["César"],
+    "defenders": ["Michel Salgado", "Fernando Hierro", "Iván Helguera", "Roberto Carlos"],
+    "midfielders": ["Flávio Conceição", "Claude Makélélé", "Zinedine Zidane", "Steve McManaman"],
+    "forwards": ["Raúl", "Ronaldo"]
+  },
+  "road_to_glory": {
+    "r16": "bye",
+    "quarterfinal": "Panathinaikos",
+    "semifinal": "Barcelona",
+    "final": "Bayer Leverkusen"
+  }
+},
+{
+  "id": "2003-ac-milan",
+  "year": 2003,
+  "winner": "AC Milan",
+  "winner_country": "Italy",
+  "runner_up": "Juventus",
+  "score": "0-0 (3-2 on penalties)",
+  "stadium": "Old Trafford",
+  "city": "Manchester",
+  "manager": "Carlo Ancelotti",
+  "captain": "Paolo Maldini",
+  "logo": "/assets/logos/ac-milan.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2003-ac-milan-celebration.jpg",
+    "trophy_lift": "/assets/photos/2003-ac-milan-trophy.jpg"
+  },
+  "story": "An all-Italian final at Old Trafford that ended goalless after 120 tense minutes. AC Milan edged out city rivals Juventus on penalties in a tactical masterclass from Carlo Ancelotti. Dida was the hero in goal, while Paolo Maldini lifted the trophy in what felt like a coronation for one of football's greatest ever defenders.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Dida"],
+    "defenders": ["Cafu", "Alessandro Costacurta", "Paolo Maldini", "Kakha Kaladze"],
+    "midfielders": ["Clarence Seedorf", "Gennaro Gattuso", "Andrea Pirlo", "Rui Costa"],
+    "forwards": ["Filippo Inzaghi", "Andriy Shevchenko"]
+  },
+  "road_to_glory": {
+    "r16": "bye",
+    "quarterfinal": "Ajax",
+    "semifinal": "Inter Milan",
+    "final": "Juventus"
+  }
+},
+{
+  "id": "2004-fc-porto",
+  "year": 2004,
+  "winner": "FC Porto",
+  "winner_country": "Portugal",
+  "runner_up": "AS Monaco",
+  "score": "3-0",
+  "stadium": "Arena AufSchalke",
+  "city": "Gelsenkirchen",
+  "manager": "José Mourinho",
+  "captain": "Jorge Costa",
+  "logo": "/assets/logos/fc-porto.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2004-fc-porto-celebration.jpg",
+    "trophy_lift": "/assets/photos/2004-fc-porto-trophy.jpg"
+  },
+  "story": "José Mourinho announced himself to the world by guiding unfancied FC Porto to an emphatic 3-0 victory over Monaco. Built on defensive solidity and devastating counter-attacks, Porto were a team that punched far above their weight. It was one of the greatest managerial achievements in Champions League history.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Vítor Baía"],
+    "defenders": ["Paulo Ferreira", "Jorge Costa", "Ricardo Carvalho", "Nuno Valente"],
+    "midfielders": ["Costinha", "Maniche", "Deco", "Pedro Mendes"],
+    "forwards": ["Carlos Alberto", "Derlei"]
+  },
+  "road_to_glory": {
+    "r16": "Manchester United",
+    "quarterfinal": "Olympique Lyonnais",
+    "semifinal": "Deportivo de La Coruña",
+    "final": "AS Monaco"
+  }
+},
+{
+  "id": "2005-liverpool",
+  "year": 2005,
+  "winner": "Liverpool",
+  "winner_country": "England",
+  "runner_up": "AC Milan",
+  "score": "3-3 (3-2 on penalties)",
+  "stadium": "Atatürk Olympic Stadium",
+  "city": "Istanbul",
+  "manager": "Rafael Benítez",
+  "captain": "Steven Gerrard",
+  "logo": "/assets/logos/liverpool.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2005-liverpool-celebration.jpg",
+    "trophy_lift": "/assets/photos/2005-liverpool-trophy.jpg"
+  },
+  "story": "The Miracle of Istanbul. Liverpool were 3-0 down at half-time against a dominant AC Milan side and looked dead and buried. Then Steven Gerrard inspired the most extraordinary comeback in football history — three goals in six second-half minutes levelled the tie. Jerzy Dudek's heroics in the shootout completed one of sport's greatest ever nights.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Jerzy Dudek"],
+    "defenders": ["Steve Finnan", "Jamie Carragher", "Sami Hyypiä", "Djimi Traoré"],
+    "midfielders": ["Harry Kewell", "Steven Gerrard", "Xabi Alonso", "Luis García"],
+    "forwards": ["Milan Baroš", "John Arne Riise"]
+  },
+  "road_to_glory": {
+    "r16": "Bayer Leverkusen",
+    "quarterfinal": "Juventus",
+    "semifinal": "Chelsea",
+    "final": "AC Milan"
+  }
+},
+{
+  "id": "2006-barcelona",
+  "year": 2006,
+  "winner": "Barcelona",
+  "winner_country": "Spain",
+  "runner_up": "Arsenal",
+  "score": "2-1",
+  "stadium": "Stade de France",
+  "city": "Paris",
+  "manager": "Frank Rijkaard",
+  "captain": "Carles Puyol",
+  "logo": "/assets/logos/barcelona.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2006-barcelona-celebration.jpg",
+    "trophy_lift": "/assets/photos/2006-barcelona-trophy.jpg"
+  },
+  "story": "Frank Rijkaard's Barcelona overcame a resolute Arsenal side who had goalkeeper Jens Lehmann sent off early. Despite going behind, Barça's class eventually told — substitute Henrik Larsson set up two goals to turn the game around. A young Lionel Messi was part of this squad, learning from the greats around him.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Víctor Valdés"],
+    "defenders": ["Oleguer", "Carles Puyol", "Rafael Márquez", "Giovanni van Bronckhorst"],
+    "midfielders": ["Mark van Bommel", "Xavi", "Andrés Iniesta"],
+    "forwards": ["Sandro Rosell", "Samuel Eto'o", "Ronaldinho"]
+  },
+  "road_to_glory": {
+    "r16": "Chelsea",
+    "quarterfinal": "Benfica",
+    "semifinal": "AC Milan",
+    "final": "Arsenal"
+  }
+},
+{
+  "id": "2007-ac-milan",
+  "year": 2007,
+  "winner": "AC Milan",
+  "winner_country": "Italy",
+  "runner_up": "Liverpool",
+  "score": "2-1",
+  "stadium": "Olimpiyskiy National Sports Complex",
+  "city": "Athens",
+  "manager": "Carlo Ancelotti",
+  "captain": "Paolo Maldini",
+  "logo": "/assets/logos/ac-milan.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2007-ac-milan-celebration.jpg",
+    "trophy_lift": "/assets/photos/2007-ac-milan-trophy.jpg"
+  },
+  "story": "Two years after Istanbul, AC Milan got their revenge on Liverpool in Athens. Filippo Inzaghi scored twice — one a fortunate deflection, one a cool finish — to give Milan a deserved victory. It was Carlo Ancelotti's second Champions League title as Milan manager and Paolo Maldini's seventh European Cup.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Dida"],
+    "defenders": ["Cafu", "Alessandro Nesta", "Paolo Maldini", "Marek Jankulovski"],
+    "midfielders": ["Gennaro Gattuso", "Andrea Pirlo", "Clarence Seedorf", "Kaká"],
+    "forwards": ["Filippo Inzaghi", "Alberto Gilardino"]
+  },
+  "road_to_glory": {
+    "r16": "Celtic",
+    "quarterfinal": "Bayern Munich",
+    "semifinal": "Manchester United",
+    "final": "Liverpool"
+  }
+},
+{
+  "id": "2008-manchester-united",
+  "year": 2008,
+  "winner": "Manchester United",
+  "winner_country": "England",
+  "runner_up": "Chelsea",
+  "score": "1-1 (6-5 on penalties)",
+  "stadium": "Luzhniki Stadium",
+  "city": "Moscow",
+  "manager": "Sir Alex Ferguson",
+  "captain": "Ryan Giggs",
+  "logo": "/assets/logos/manchester-united.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2008-manchester-united-celebration.jpg",
+    "trophy_lift": "/assets/photos/2008-manchester-united-trophy.jpg"
+  },
+  "story": "An all-English final in Moscow under pouring rain. Cristiano Ronaldo opened the scoring before Frank Lampard equalised for Chelsea. The game went to penalties where John Terry infamously slipped on the decisive spot kick. Edwin van der Sar saved Nicolas Anelka's penalty to hand United their third European crown — and Ronaldo his first.",
+  "starting_xi": {
+    "formation": "4-4-2",
+    "goalkeeper": ["Edwin van der Sar"],
+    "defenders": ["Wes Brown", "Rio Ferdinand", "Nemanja Vidić", "Patrice Evra"],
+    "midfielders": ["Cristiano Ronaldo", "Michael Carrick", "Paul Scholes", "Ryan Giggs"],
+    "forwards": ["Carlos Tevez", "Wayne Rooney"]
+  },
+  "road_to_glory": {
+    "r16": "Olympique Lyonnais",
+    "quarterfinal": "AS Roma",
+    "semifinal": "Barcelona",
+    "final": "Chelsea"
+  }
+},
+{
+  "id": "2009-barcelona",
+  "year": 2009,
+  "winner": "Barcelona",
+  "winner_country": "Spain",
+  "runner_up": "Manchester United",
+  "score": "2-0",
+  "stadium": "Stadio Olimpico",
+  "city": "Rome",
+  "manager": "Pep Guardiola",
+  "captain": "Carles Puyol",
+  "logo": "/assets/logos/barcelona.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2009-barcelona-celebration.jpg",
+    "trophy_lift": "/assets/photos/2009-barcelona-trophy.jpg"
+  },
+  "story": "Pep Guardiola's first season at Barcelona ended in a treble — and a masterclass against Manchester United in Rome. Samuel Eto'o and Lionel Messi scored to deliver a performance of breathtaking football. This was the birth of tiki-taka on the grandest stage — a team that didn't just win, they made the game look like art.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Víctor Valdés"],
+    "defenders": ["Dani Alves", "Gerard Piqué", "Carles Puyol", "Eric Abidal"],
+    "midfielders": ["Sergio Busquets", "Xavi", "Andrés Iniesta"],
+    "forwards": ["Samuel Eto'o", "Lionel Messi", "Thierry Henry"]
+  },
+  "road_to_glory": {
+    "r16": "Olympique Lyonnais",
+    "quarterfinal": "Bayern Munich",
+    "semifinal": "Chelsea",
+    "final": "Manchester United"
+  }
+},
+{
+  "id": "2010-inter-milan",
+  "year": 2010,
+  "winner": "Inter Milan",
+  "winner_country": "Italy",
+  "runner_up": "Bayern Munich",
+  "score": "2-0",
+  "stadium": "Santiago Bernabéu",
+  "city": "Madrid",
+  "manager": "José Mourinho",
+  "captain": "Javier Zanetti",
+  "logo": "/assets/logos/inter-milan.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2010-inter-milan-celebration.jpg",
+    "trophy_lift": "/assets/photos/2010-inter-milan-trophy.jpg"
+  },
+  "story": "José Mourinho delivered his second Champions League title with a completely different style to his Porto triumph. Inter were tactically suffocating — grinding out results and frustrating opponents into submission. Diego Milito scored both goals in Madrid to complete a historic treble, with Mourinho famously running onto the pitch at the final whistle.",
+  "starting_xi": {
+    "formation": "4-2-3-1",
+    "goalkeeper": ["Júlio César"],
+    "defenders": ["Maicon", "Lúcio", "Walter Samuel", "Patrice Evra"],
+    "midfielders": ["Esteban Cambiasso", "Thiago Motta", "Wesley Sneijder", "Dejan Stanković", "Samuel Eto'o"],
+    "forwards": ["Diego Milito"]
+  },
+  "road_to_glory": {
+    "r16": "Chelsea",
+    "quarterfinal": "CSKA Moscow",
+    "semifinal": "Barcelona",
+    "final": "Bayern Munich"
+  }
+},
+{
+  "id": "2011-barcelona",
+  "year": 2011,
+  "winner": "Barcelona",
+  "winner_country": "Spain",
+  "runner_up": "Manchester United",
+  "score": "3-1",
+  "stadium": "Wembley Stadium",
+  "city": "London",
+  "manager": "Pep Guardiola",
+  "captain": "Carles Puyol",
+  "logo": "/assets/logos/barcelona.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2011-barcelona-celebration.jpg",
+    "trophy_lift": "/assets/photos/2011-barcelona-trophy.jpg"
+  },
+  "story": "Pep Guardiola's Barcelona are widely considered the greatest club side ever assembled. At Wembley they dismantled Manchester United with suffocating possession and devastating movement. Messi was untouchable, scoring a solo goal that left Rio Ferdinand speechless. Sir Alex Ferguson called them the best team he had ever faced.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Víctor Valdés"],
+    "defenders": ["Dani Alves", "Gerard Piqué", "Carles Puyol", "Eric Abidal"],
+    "midfielders": ["Sergio Busquets", "Xavi", "Andrés Iniesta"],
+    "forwards": ["Pedro", "Lionel Messi", "David Villa"]
+  },
+  "road_to_glory": {
+    "r16": "Arsenal",
+    "quarterfinal": "Shakhtar Donetsk",
+    "semifinal": "Real Madrid",
+    "final": "Manchester United"
+  }
+},
+{
+  "id": "2012-chelsea",
+  "year": 2012,
+  "winner": "Chelsea",
+  "winner_country": "England",
+  "runner_up": "Bayern Munich",
+  "score": "1-1 (4-3 on penalties)",
+  "stadium": "Allianz Arena",
+  "city": "Munich",
+  "manager": "Roberto Di Matteo",
+  "captain": "John Terry",
+  "logo": "/assets/logos/chelsea.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2012-chelsea-celebration.jpg",
+    "trophy_lift": "/assets/photos/2012-chelsea-trophy.jpg"
+  },
+  "story": "One of the most unlikely Champions League triumphs ever. Chelsea, written off all season, dug deep in Bayern's own stadium. Didier Drogba headed a last-minute equaliser then converted the winning penalty. Petr Čech was heroic in the shootout. It was a victory built on pure character, defiance and the brilliance of Drogba on the biggest night.",
+  "starting_xi": {
+    "formation": "4-5-1",
+    "goalkeeper": ["Petr Čech"],
+    "defenders": ["José Bosingwa", "Gary Cahill", "David Luiz", "Ashley Cole"],
+    "midfielders": ["Ramires", "John Obi Mikel", "Frank Lampard", "Juan Mata", "Ryan Bertrand"],
+    "forwards": ["Didier Drogba"]
+  },
+  "road_to_glory": {
+    "r16": "Napoli",
+    "quarterfinal": "Benfica",
+    "semifinal": "Barcelona",
+    "final": "Bayern Munich"
+  }
+},
+{
+  "id": "2013-bayern-munich",
+  "year": 2013,
+  "winner": "Bayern Munich",
+  "winner_country": "Germany",
+  "runner_up": "Borussia Dortmund",
+  "score": "2-1",
+  "stadium": "Wembley Stadium",
+  "city": "London",
+  "manager": "Jupp Heynckes",
+  "captain": "Philipp Lahm",
+  "logo": "/assets/logos/bayern-munich.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2013-bayern-munich-celebration.jpg",
+    "trophy_lift": "/assets/photos/2013-bayern-munich-trophy.jpg"
+  },
+  "story": "A historic all-German final at Wembley. Bayern Munich exacted revenge for their 2012 final heartbreak with a commanding performance against fierce rivals Borussia Dortmund. Arjen Robben, who had missed a penalty the year before, scored a last-minute winner to seal the treble for Jupp Heynckes in his final game as Bayern manager.",
+  "starting_xi": {
+    "formation": "4-2-3-1",
+    "goalkeeper": ["Manuel Neuer"],
+    "defenders": ["Philipp Lahm", "Dante", "Jérôme Boateng", "David Alaba"],
+    "midfielders": ["Javi Martínez", "Bastian Schweinsteiger", "Thomas Müller", "Arjen Robben", "Franck Ribéry"],
+    "forwards": ["Mario Mandžukić"]
+  },
+  "road_to_glory": {
+    "r16": "Arsenal",
+    "quarterfinal": "Juventus",
+    "semifinal": "Barcelona",
+    "final": "Borussia Dortmund"
+  }
+},
+{
+  "id": "2014-real-madrid",
+  "year": 2014,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Atlético Madrid",
+  "score": "4-1 (AET)",
+  "stadium": "Estadio da Luz",
+  "city": "Lisbon",
+  "manager": "Carlo Ancelotti",
+  "captain": "Iker Casillas",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2014-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2014-real-madrid-trophy.jpg"
+  },
+  "story": "La Décima. Real Madrid's obsessive 12-year wait for a tenth European Cup finally ended in Lisbon. Atlético Madrid were 90 seconds away from winning it when Sergio Ramos headed a dramatic equaliser. Extra time belonged entirely to Madrid — Gareth Bale, Marcelo and Ronaldo adding three more goals to complete an emotional and historic triumph.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Iker Casillas"],
+    "defenders": ["Dani Carvajal", "Sergio Ramos", "Raphaël Varane", "Marcelo"],
+    "midfielders": ["Sami Khedira", "Luka Modrić", "Ángel Di María"],
+    "forwards": ["Gareth Bale", "Karim Benzema", "Cristiano Ronaldo"]
+  },
+  "road_to_glory": {
+    "r16": "Schalke 04",
+    "quarterfinal": "Borussia Dortmund",
+    "semifinal": "Bayern Munich",
+    "final": "Atlético Madrid"
+  }
+},
+{
+  "id": "2015-barcelona",
+  "year": 2015,
+  "winner": "Barcelona",
+  "winner_country": "Spain",
+  "runner_up": "Juventus",
+  "score": "3-1",
+  "stadium": "Olympiastadion",
+  "city": "Berlin",
+  "manager": "Luis Enrique",
+  "captain": "Andrés Iniesta",
+  "logo": "/assets/logos/barcelona.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2015-barcelona-celebration.jpg",
+    "trophy_lift": "/assets/photos/2015-barcelona-trophy.jpg"
+  },
+  "story": "Luis Enrique's Barcelona completed a treble powered by the most devastating attacking trio in football history — Messi, Suárez and Neymar. In Berlin, they dismantled a strong Juventus side with goals from Rakitić, Suárez and Neymar. It was Barcelona's fifth European Cup and proof that even without Guardiola, their DNA remained irresistible.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Marc-André ter Stegen"],
+    "defenders": ["Dani Alves", "Gerard Piqué", "Javier Mascherano", "Jordi Alba"],
+    "midfielders": ["Ivan Rakitić", "Sergio Busquets", "Andrés Iniesta"],
+    "forwards": ["Lionel Messi", "Luis Suárez", "Neymar"]
+  },
+  "road_to_glory": {
+    "r16": "Manchester City",
+    "quarterfinal": "Paris Saint-Germain",
+    "semifinal": "Bayern Munich",
+    "final": "Juventus"
+  }
+},
+{
+  "id": "2016-real-madrid",
+  "year": 2016,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Atlético Madrid",
+  "score": "1-1 (5-3 on penalties)",
+  "stadium": "San Siro",
+  "city": "Milan",
+  "manager": "Zinedine Zidane",
+  "captain": "Sergio Ramos",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2016-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2016-real-madrid-trophy.jpg"
+  },
+  "story": "Zinedine Zidane's first Champions League as manager ended in glory. A second final between Real Madrid and Atlético Madrid in three years again went to penalties. Cristiano Ronaldo scored the winning spot kick with trademark confidence, sending Madrid to an 11th European title. It was the beginning of an unprecedented era of dominance.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Keylor Navas"],
+    "defenders": ["Dani Carvajal", "Sergio Ramos", "Raphaël Varane", "Marcelo"],
+    "midfielders": ["Toni Kroos", "Casemiro", "Luka Modrić"],
+    "forwards": ["Gareth Bale", "Karim Benzema", "Cristiano Ronaldo"]
+  },
+  "road_to_glory": {
+    "r16": "AS Roma",
+    "quarterfinal": "Wolfsburg",
+    "semifinal": "Manchester City",
+    "final": "Atlético Madrid"
+  }
+},
+{
+  "id": "2017-real-madrid",
+  "year": 2017,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Juventus",
+  "score": "4-1",
+  "stadium": "National Stadium of Wales",
+  "city": "Cardiff",
+  "manager": "Zinedine Zidane",
+  "captain": "Sergio Ramos",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2017-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2017-real-madrid-trophy.jpg"
+  },
+  "story": "Real Madrid became the first team in the Champions League era to retain the trophy. In Cardiff they were simply irresistible, thrashing Juventus 4-1. Cristiano Ronaldo scored twice, Casemiro and Marco Asensio added more. Zidane had now won back-to-back titles in his first two seasons as a manager — a staggering achievement.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Keylor Navas"],
+    "defenders": ["Dani Carvajal", "Sergio Ramos", "Raphaël Varane", "Marcelo"],
+    "midfielders": ["Toni Kroos", "Casemiro", "Luka Modrić"],
+    "forwards": ["Isco", "Karim Benzema", "Cristiano Ronaldo"]
+  },
+  "road_to_glory": {
+    "r16": "Napoli",
+    "quarterfinal": "Bayern Munich",
+    "semifinal": "Atlético Madrid",
+    "final": "Juventus"
+  }
+},
+{
+  "id": "2018-real-madrid",
+  "year": 2018,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Liverpool",
+  "score": "3-1",
+  "stadium": "NSC Olimpiyskiy",
+  "city": "Kyiv",
+  "manager": "Zinedine Zidane",
+  "captain": "Sergio Ramos",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2018-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2018-real-madrid-trophy.jpg"
+  },
+  "story": "Real Madrid completed an extraordinary three-peat in Kyiv. Gareth Bale came off the bench to score one of the greatest goals in final history — an astonishing bicycle kick — before adding a second. Liverpool goalkeeper Loris Karius made two catastrophic errors that handed Madrid the game. Zidane then shockingly resigned days later, having won three consecutive European Cups.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Keylor Navas"],
+    "defenders": ["Dani Carvajal", "Sergio Ramos", "Raphaël Varane", "Marcelo"],
+    "midfielders": ["Toni Kroos", "Casemiro", "Luka Modrić"],
+    "forwards": ["Isco", "Karim Benzema", "Cristiano Ronaldo"]
+  },
+  "road_to_glory": {
+    "r16": "Paris Saint-Germain",
+    "quarterfinal": "Juventus",
+    "semifinal": "Bayern Munich",
+    "final": "Liverpool"
+  }
+},
+{
+  "id": "2019-liverpool",
+  "year": 2019,
+  "winner": "Liverpool",
+  "winner_country": "England",
+  "runner_up": "Tottenham Hotspur",
+  "score": "2-0",
+  "stadium": "Wanda Metropolitano",
+  "city": "Madrid",
+  "manager": "Jürgen Klopp",
+  "captain": "Jordan Henderson",
+  "logo": "/assets/logos/liverpool.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2019-liverpool-celebration.jpg",
+    "trophy_lift": "/assets/photos/2019-liverpool-trophy.jpg"
+  },
+  "story": "Liverpool's road to the 2019 final was the stuff of legend — overturning a 3-0 deficit against Barcelona in one of football's greatest ever comebacks at Anfield. The final itself was calmer, Mohamed Salah scoring a second-minute penalty before Divock Origi sealed it late. Jürgen Klopp finally had his Champions League and Liverpool their sixth.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Alisson Becker"],
+    "defenders": ["Trent Alexander-Arnold", "Joel Matip", "Virgil van Dijk", "Andrew Robertson"],
+    "midfielders": ["Jordan Henderson", "Fabinho", "Georginio Wijnaldum"],
+    "forwards": ["Mohamed Salah", "Roberto Firmino", "Sadio Mané"]
+  },
+  "road_to_glory": {
+    "r16": "Bayern Munich",
+    "quarterfinal": "Porto",
+    "semifinal": "Barcelona",
+    "final": "Tottenham Hotspur"
+  }
+},
+{
+  "id": "2020-bayern-munich",
+  "year": 2020,
+  "winner": "Bayern Munich",
+  "winner_country": "Germany",
+  "runner_up": "Paris Saint-Germain",
+  "score": "1-0",
+  "stadium": "Estádio da Luz",
+  "city": "Lisbon",
+  "manager": "Hansi Flick",
+  "captain": "Manuel Neuer",
+  "logo": "/assets/logos/bayern-munich.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2020-bayern-munich-celebration.jpg",
+    "trophy_lift": "/assets/photos/2020-bayern-munich-trophy.jpg"
+  },
+  "story": "Played in an empty stadium due to the COVID-19 pandemic, Bayern Munich's 2020 campaign was one of the most dominant in Champions League history. Hansi Flick's side scored 43 goals in 11 games, winning every single match. Kingsley Coman — a former PSG academy player — broke Parisian hearts with the only goal of the final.",
+  "starting_xi": {
+    "formation": "4-2-3-1",
+    "goalkeeper": ["Manuel Neuer"],
+    "defenders": ["Benjamin Pavard", "Jérôme Boateng", "David Alaba", "Alphonso Davies"],
+    "midfielders": ["Joshua Kimmich", "León Goretzka", "Thomas Müller", "Serge Gnabry", "Kingsley Coman"],
+    "forwards": ["Robert Lewandowski"]
+  },
+  "road_to_glory": {
+    "r16": "Chelsea",
+    "quarterfinal": "Barcelona",
+    "semifinal": "Olympique Lyonnais",
+    "final": "Paris Saint-Germain"
+  }
+},
+{
+  "id": "2021-chelsea",
+  "year": 2021,
+  "winner": "Chelsea",
+  "winner_country": "England",
+  "runner_up": "Manchester City",
+  "score": "1-0",
+  "stadium": "Estádio do Dragão",
+  "city": "Porto",
+  "manager": "Thomas Tuchel",
+  "captain": "César Azpilicueta",
+  "logo": "/assets/logos/chelsea.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2021-chelsea-celebration.jpg",
+    "trophy_lift": "/assets/photos/2021-chelsea-trophy.jpg"
+  },
+  "story": "Thomas Tuchel transformed Chelsea from a struggling side into European champions in just five months. In an all-English final in Porto, Kai Havertz coolly slotted past Ederson to score the only goal. Tuchel's tactical masterplan completely neutralised Pep Guardiola's Manchester City. It was a victory built on defensive brilliance and clinical execution.",
+  "starting_xi": {
+    "formation": "3-4-3",
+    "goalkeeper": ["Edouard Mendy"],
+    "defenders": ["César Azpilicueta", "Thiago Silva", "Antonio Rüdiger"],
+    "midfielders": ["Reece James", "N'Golo Kanté", "Jorginho", "Ben Chilwell"],
+    "forwards": ["Mason Mount", "Kai Havertz", "Christian Pulišić"]
+  },
+  "road_to_glory": {
+    "r16": "Atlético Madrid",
+    "quarterfinal": "Porto",
+    "semifinal": "Real Madrid",
+    "final": "Manchester City"
+  }
+},
+{
+  "id": "2022-real-madrid",
+  "year": 2022,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Liverpool",
+  "score": "1-0",
+  "stadium": "Stade de France",
+  "city": "Paris",
+  "manager": "Carlo Ancelotti",
+  "captain": "Karim Benzema",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2022-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2022-real-madrid-trophy.jpg"
+  },
+  "story": "The most miraculous Champions League campaign ever. Real Madrid came back from the dead against PSG, Chelsea and Manchester City in successive knockout rounds — each time looking dead before producing extraordinary late comebacks. Vinicius Jr scored the only goal in Paris against Liverpool. This was the season that proved Real Madrid are simply different in Europe.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Thibaut Courtois"],
+    "defenders": ["Dani Carvajal", "Eder Militão", "David Alaba", "Ferland Mendy"],
+    "midfielders": ["Toni Kroos", "Casemiro", "Luka Modrić"],
+    "forwards": ["Federico Valverde", "Karim Benzema", "Vinicius Jr"]
+  },
+  "road_to_glory": {
+    "r16": "Paris Saint-Germain",
+    "quarterfinal": "Chelsea",
+    "semifinal": "Manchester City",
+    "final": "Liverpool"
+  }
+},
+{
+  "id": "2023-manchester-city",
+  "year": 2023,
+  "winner": "Manchester City",
+  "winner_country": "England",
+  "runner_up": "Inter Milan",
+  "score": "1-0",
+  "stadium": "Atatürk Olympic Stadium",
+  "city": "Istanbul",
+  "manager": "Pep Guardiola",
+  "captain": "İlkay Gündoğan",
+  "logo": "/assets/logos/manchester-city.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2023-manchester-city-celebration.jpg",
+    "trophy_lift": "/assets/photos/2023-manchester-city-trophy.jpg"
+  },
+  "story": "Pep Guardiola finally ended Manchester City's Champions League wait in Istanbul, completing a historic treble. Rodri's second-half strike was enough to beat a resilient Inter Milan side. It was the culmination of years of investment, planning and near-misses. For Guardiola, it silenced those who questioned whether he could win it without Messi or Ronaldo.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Ederson"],
+    "defenders": ["Kyle Walker", "Rúben Dias", "Manuel Akanji", "João Cancelo"],
+    "midfielders": ["Rodri", "Kevin De Bruyne", "Bernardo Silva"],
+    "forwards": ["İlkay Gündoğan", "Erling Haaland", "Phil Foden"]
+  },
+  "road_to_glory": {
+    "r16": "RB Leipzig",
+    "quarterfinal": "Bayern Munich",
+    "semifinal": "Real Madrid",
+    "final": "Inter Milan"
+  }
+},
+{
+  "id": "2024-real-madrid",
+  "year": 2024,
+  "winner": "Real Madrid",
+  "winner_country": "Spain",
+  "runner_up": "Borussia Dortmund",
+  "score": "2-0",
+  "stadium": "Wembley Stadium",
+  "city": "London",
+  "manager": "Carlo Ancelotti",
+  "captain": "Nacho Fernández",
+  "logo": "/assets/logos/real-madrid.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2024-real-madrid-celebration.jpg",
+    "trophy_lift": "/assets/photos/2024-real-madrid-trophy.jpg"
+  },
+  "story": "Real Madrid won their 15th European Cup at Wembley with yet another trademark comeback. Borussia Dortmund dominated the first half and should have scored. But Madrid, as always, found a way — substitute Dani Carvajal and Vinicius Jr scored in the second half to seal it. Carlo Ancelotti became the first manager to win four Champions League titles.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Thibaut Courtois"],
+    "defenders": ["Dani Carvajal", "Eder Militão", "Antonio Rüdiger", "Ferland Mendy"],
+    "midfielders": ["Toni Kroos", "Aurelien Tchouaméni", "Luka Modrić"],
+    "forwards": ["Federico Valverde", "Joselu", "Vinicius Jr"]
+  },
+  "road_to_glory": {
+    "r16": "RB Leipzig",
+    "quarterfinal": "Manchester City",
+    "semifinal": "Bayern Munich",
+    "final": "Borussia Dortmund"
+  }
+},
+{
+  "id": "2025-paris-saint-germain",
+  "year": 2025,
+  "winner": "Paris Saint-Germain",
+  "winner_country": "France",
+  "runner_up": "Inter Milan",
+  "score": "5-0",
+  "stadium": "Allianz Arena",
+  "city": "Munich",
+  "manager": "Luis Enrique",
+  "captain": "Marquinhos",
+  "logo": "/assets/logos/paris-saint-germain.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2025-paris-saint-germain-celebration.jpg",
+    "trophy_lift": "/assets/photos/2025-paris-saint-germain-trophy.jpg"
+  },
+  "story": "After years of near-misses and heartbreak, Paris Saint-Germain finally claimed the Champions League they had craved for so long. Without Mbappe, Neymar or Messi, Luis Enrique rebuilt PSG as a fearless collective — and they demolished Inter Milan 5-0 in Munich in the most emphatic final in decades. A new chapter for French football.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Gianluigi Donnarumma"],
+    "defenders": ["Achraf Hakimi", "Marquinhos", "Willian Pacho", "Nuno Mendes"],
+    "midfielders": ["Vitinha", "João Neves", "Fabian Ruiz"],
+    "forwards": ["Ousmane Dembélé", "Désiré Doué", "Khvicha Kvaratskhelia"]
+  },
+  "road_to_glory": {
+    "r16": "Liverpool",
+    "quarterfinal": "Aston Villa",
+    "semifinal": "Arsenal",
+    "final": "Inter Milan"
+  }
+},
+{
+  "id": "2026-paris-saint-germain",
+  "year": 2026,
+  "winner": "Paris Saint-Germain",
+  "winner_country": "France",
+  "runner_up": "Arsenal",
+  "score": "1-1 (4-3 on penalties)",
+  "stadium": "Puskás Aréna",
+  "city": "Budapest",
+  "manager": "Luis Enrique",
+  "captain": "Marquinhos",
+  "logo": "/assets/logos/paris-saint-germain.png",
+  "photos": {
+    "team_celebration": "/assets/photos/2026-paris-saint-germain-celebration.jpg",
+    "trophy_lift": "/assets/photos/2026-paris-saint-germain-trophy.jpg"
+  },
+  "story": "PSG became only the second club in Champions League history to successfully defend their title, joining Real Madrid's legendary three-peat. In Budapest, Kai Havertz gave Arsenal a stunning sixth-minute lead but Ballon d'Or winner Ousmane Dembélé coolly converted a penalty to level. Neither side could find a winner in extra time, and when Gabriel blazed his penalty over the bar in the shootout, the trophy stayed in Paris. Luis Enrique had now won the Champions League three times as a manager — a remarkable legacy.",
+  "starting_xi": {
+    "formation": "4-3-3",
+    "goalkeeper": ["Matvei Safonov"],
+    "defenders": ["Achraf Hakimi", "Marquinhos", "Willian Pacho", "Nuno Mendes"],
+    "midfielders": ["Fabian Ruiz", "Vitinha", "João Neves"],
+    "forwards": ["Ousmane Dembélé", "Gonçalo Ramos", "Khvicha Kvaratskhelia"]
+  },
+  "road_to_glory": {
+    "r16": "Liverpool",
+    "quarterfinal": "Aston Villa",
+    "semifinal": "Arsenal",
+    "final": "Arsenal"
+  }
+}]
