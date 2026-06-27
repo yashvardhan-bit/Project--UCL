@@ -1,5 +1,7 @@
 import { Inter, Bebas_Neue } from "next/font/google"
 import "./globals.css"
+import { Metadata } from "next"
+import Navbar from "@/components/Navbar"
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const bebasNeue = Bebas_Neue({ 
@@ -8,16 +10,19 @@ const bebasNeue = Bebas_Neue({
   variable: "--font-bebas" 
 })
 
-export const metadata = {
-  title: "Road To Glory",
-  description: "UEFA Champions League Legacy Archive 2000–2026",
+export const metadata: Metadata = {
+  title: "The Champions Archive",
+  description: "Every Champion. Every Story. Every Era.",
 }
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${bebasNeue.variable} bg-ucl-navy text-ucl-white`}>
-        {children}
+      <body className={`${inter.variable} ${bebasNeue.variable}`}>
+        <Navbar />
+        <main className="pt-16">
+          {children}
+        </main>
       </body>
     </html>
   )

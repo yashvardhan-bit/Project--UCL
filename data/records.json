@@ -1,0 +1,82 @@
+[
+  {
+    "id": "most-goals",
+    "category": "Most Goals",
+    "holder": "Cristiano Ronaldo",
+    "value": 140,
+    "year": 2024,
+    "notes": "All-time top scorer in Champions League history"
+  },
+  {
+    "id": "most-appearances",
+    "category": "Most Appearances",
+    "holder": "Cristiano Ronaldo",
+    "value": 183,
+    "year": 2024,
+    "notes": "Most matches played in the competition"
+  },
+  {
+    "id": "most-titles",
+    "category": "Most Titles (Player)",
+    "holder": "Paolo Maldini",
+    "value": 7,
+    "year": 2007,
+    "notes": "All with AC Milan"
+  },
+  {
+    "id": "most-titles-club",
+    "category": "Most Titles (Club)",
+    "holder": "Real Madrid",
+    "value": 15,
+    "year": 2024,
+    "notes": "European Cup/Champions League winners"
+  },
+  {
+    "id": "youngest-scorer",
+    "category": "Youngest Scorer",
+    "holder": "Bojan Krkić",
+    "value": "17 years 357 days",
+    "year": 2008,
+    "notes": "Scored for Barcelona vs AS Roma"
+  },
+  {
+    "id": "oldest-scorer",
+    "category": "Oldest Scorer",
+    "holder": "Faryd Mondragón",
+    "value": "43 years 3 days",
+    "year": 2010,
+    "notes": "Scored for Deportivo La Coruña"
+  },
+  {
+    "id": "biggest-win",
+    "category": "Biggest Win",
+    "holder": "Bayern Munich",
+    "value": "7-1",
+    "year": 2020,
+    "notes": "vs Barcelona in quarterfinals"
+  },
+  {
+    "id": "fastest-hat-trick",
+    "category": "Fastest Hat-Trick",
+    "holder": "Robert Lewandowski",
+    "value": "14 minutes",
+    "year": 2015,
+    "notes": "vs Arsenal in Round of 16"
+  },
+  {
+    "id": "most-finals",
+    "category": "Most Finals Played",
+    "holder": "Cristiano Ronaldo",
+    "value": 6,
+    "year": 2018,
+    "notes": "3 won with Manchester United & Real Madrid"
+  },
+  {
+    "id": "most-consecutive-titles",
+    "category": "Most Consecutive Titles",
+    "holder": "Real Madrid",
+    "value": 3,
+    "year": 2018,
+    "notes": "2016, 2017, 2018"
+  }
+]
