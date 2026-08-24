@@ -1,3 +1,7 @@
+## Project Overview
+
+Road to Glory is a Next.js web application created with `create-next-app`. It provides a starting point for building and running the project locally, with the main page located in `app/page.tsx`.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
