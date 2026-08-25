@@ -13,6 +13,10 @@ export async function generateStaticParams() {
     id: final.id,
   }))
 }
+import { notFound } from "next/navigation"
+import Link from "next/link"
+import championsData from "@/data/champions.json"
+import { FinalRecord } from "@/types"
 
 export default async function FinalDetailPage({ params }: FinalDetailPageProps) {
   const { id } = await params
