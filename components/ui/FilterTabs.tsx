@@ -19,7 +19,7 @@ export default function FilterTabs({ options, selected, onChange }: FilterTabsPr
         style={{
           backgroundColor: selected === null ? "rgba(245, 197, 24, 0.1)" : "transparent",
         }}>
-        All
+        All tabs
       </button>
       {options.map((option) => (
         <button
