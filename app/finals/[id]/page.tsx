@@ -203,7 +203,7 @@ export default async function FinalDetailPage({
               color: "var(--color-navy)",
             }}
           >
-            ← Back to Seasons
+            ← Back to the Seasons
           </Link>
         </div>
       </div>
