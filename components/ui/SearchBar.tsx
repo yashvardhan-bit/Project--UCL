@@ -55,12 +55,7 @@ export default function SearchBar({
         className="w-full pl-12 pr-4 py-3 bg-white/5 border border-white/10 rounded text-white placeholder-white/40 focus:outline-none focus:border-white/30 transition-colors"
       />
       {value && onClear && (
-        <button
-          onClick={onClear}
-          className="absolute inset-y-0 right-0 pr-4 flex items-center"
-          style={{ color: "rgba(255,255,255,0.5)" }}>
-          ✕
-        </button>
+        
       )}
     </div>
   )
