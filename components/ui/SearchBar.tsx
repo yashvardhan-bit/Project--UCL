@@ -1,13 +1,13 @@
-"use client"
+"use client";
 
-import React from "react"
+import React from "react";
 
 interface SearchBarProps {
-  placeholder?: string
-  value: string
-  onChange: (value: string) => void
-  onClear?: () => void
-  onLegend?: () => void
+  placeholder?: string;
+  value: string;
+  onChange: (value: string) => void;
+  onClear?: () => void;
+  onLegend?: () => void;
 }
 
 export default function SearchBar({
@@ -25,7 +25,8 @@ export default function SearchBar({
           style={{ color: "rgba(255,255,255,0.4)" }}
           fill="none"
           stroke="currentColor"
-          viewBox="0 0 24 24">
+          viewBox="0 0 24 24"
+        >
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -40,7 +41,8 @@ export default function SearchBar({
           style={{ color: "rgba(255,255,255,0.4)" }}
           fill="none"
           stroke="currentColor"
-          viewBox="0 0 24 24">
+          viewBox="0 0 24 24"
+        >
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -61,7 +63,8 @@ export default function SearchBar({
           type="button"
           onClick={onClear}
           aria-label="Clear search"
-          className="absolute inset-y-0 right-3 text-white/50 hover:text-white transition-colors">
+          className="absolute inset-y-0 right-3 text-white/50 hover:text-white transition-colors"
+        >
           ×
         </button>
       )}
@@ -70,10 +73,11 @@ export default function SearchBar({
           type="button"
           onClick={onLegend}
           aria-label="Open legend"
-          className="absolute inset-y-0 right-10 text-white/50 hover:text-white transition-colors">
+          className="absolute inset-y-0 right-10 text-white/50 hover:text-white transition-colors"
+        >
           ★
         </button>
       )}
     </div>
-  )
+  );
 }
