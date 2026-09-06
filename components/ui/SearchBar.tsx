@@ -7,6 +7,7 @@ interface SearchBarProps {
   value: string
   onChange: (value: string) => void
   onClear?: () => void
+  onLegend?: () => void
 }
 
 export default function SearchBar({
@@ -14,6 +15,7 @@ export default function SearchBar({
   value,
   onChange,
   onClear,
+  onLegend,
 }: SearchBarProps) {
   return (
     <div className="relative">
@@ -55,7 +57,22 @@ export default function SearchBar({
         className="w-full pl-12 pr-4 py-3 bg-white/5 border border-white/10 rounded text-white placeholder-white/40 focus:outline-none focus:border-white/30 transition-colors"
       />
       {value && onClear && (
-        
+        <button
+          type="button"
+          onClick={onClear}
+          aria-label="Clear search"
+          className="absolute inset-y-0 right-3 text-white/50 hover:text-white transition-colors">
+          ×
+        </button>
+      )}
+      {onLegend && (
+        <button
+          type="button"
+          onClick={onLegend}
+          aria-label="Open legend"
+          className="absolute inset-y-0 right-10 text-white/50 hover:text-white transition-colors">
+          ★
+        </button>
       )}
     </div>
   )
