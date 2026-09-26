@@ -19,7 +19,7 @@ export default function ChampionsPage() {
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null)
 
   const clubs = clubsData as ChampionClub[]
-  const countries = useMemo(() => getCountries(clubs), [])
+  const countries = useMemo(() => getCountries(clubs), [clubs])
 
   // Filter clubs
   const filtered = useMemo(() => {
@@ -40,7 +40,7 @@ export default function ChampionsPage() {
     }
 
     return result
-  }, [searchQuery, selectedCountry])
+  }, [clubs, searchQuery, selectedCountry])
 
   // Sort clubs
   const sorted = useMemo(() => {

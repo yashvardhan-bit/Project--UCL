@@ -19,7 +19,7 @@ export default function SeasonsPage() {
           final.runner_up.toLowerCase().includes(searchQuery.toLowerCase()) ||
           final.year.toString().includes(searchQuery)
       ),
-    [searchQuery]
+    [finals, searchQuery]
   )
 
   return (
