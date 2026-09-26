@@ -7,19 +7,12 @@ interface FinalDetailPageProps {
   params: Promise<{ id: string }>;
 }
 
-function randomFunction() {
-}
-
 export async function generateStaticParams() {
   const finals = championsData as FinalRecord[];
   return finals.map((final) => ({
     id: final.id,
   }));
 }
-import { notFound } from "next/navigation";
-import Link from "next/link";
-import championsData from "@/data/champions.json";
-import { FinalRecord } from "@/types";
 
 export default async function FinalDetailPage({
   params,
